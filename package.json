@@ -1,0 +1,15 @@
+{
+  "name": "personalsiteanddemos",
+  "version": "1.0.0",
+  "description": "Personal site and programming demo 'testbed' for Michael Nizzari",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GNU-3.0",
+  "dependencies": {
+    "node-color-log": "^9.0.0"
+  }
+}
